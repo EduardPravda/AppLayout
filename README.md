@@ -9,7 +9,7 @@
 
 ---
 
-### 🇨🇿 O aplikaci
+### O aplikaci
 **AppLayout** vám dává plnou kontrolu nad pracovní plochou. Umožňuje zafixovat velikosti a pozice oken libovolných programů na monitoru a automaticky je otevírat přesně tam, kde je chcete mít.
 
 #### Klíčové funkce
@@ -24,7 +24,7 @@
 
 ---
 
-### 🇬🇧 About
+### About
 **AppLayout** gives you complete control over your Windows workspace. It anchors application windows to custom screen coordinates, automating window arrangements for daily productivity.
 
 #### Highlights
